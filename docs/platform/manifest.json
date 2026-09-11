@@ -1,0 +1,867 @@
+{
+  "description": "Official WhatsApp Business Platform (Cloud API) documentation and Meta/WhatsApp policies that govern tcgsouq-whatsapp. Re-fetch with scripts/fetch_platform_docs.py.",
+  "pages": [
+    {
+      "platform": "whatsapp-policy",
+      "slug": "business-messaging-policy",
+      "url": "https://business.whatsapp.com/policy",
+      "title": "WhatsApp Business Messaging Policy"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "messaging-guidelines",
+      "url": "https://www.whatsapp.com/legal/messaging-guidelines",
+      "title": "WhatsApp Messaging Guidelines"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "business-terms",
+      "url": "https://www.whatsapp.com/legal/business-terms",
+      "title": "WhatsApp Business Terms of Service"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "business-data-processing-terms",
+      "url": "https://www.whatsapp.com/legal/business-data-processing-terms",
+      "title": "WhatsApp Business Data Processing Terms"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "meta-platform-terms",
+      "url": "https://developers.facebook.com/terms/",
+      "title": "Meta Platform Terms"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "meta-developer-policies",
+      "url": "https://developers.facebook.com/devpolicy/",
+      "title": "Meta Developer Policies"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "policy-enforcement",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement",
+      "title": "Policy enforcement"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "getting-opt-in",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/getting-opt-in",
+      "title": "Getting opt-in"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "quality-rating-help",
+      "url": "https://www.facebook.com/business/help/896873687365001",
+      "title": "Quality rating and phone number status (Help Center)",
+      "note": "Meta Business Help Center; article extracted from the page's embedded data"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "business-verification-help",
+      "url": "https://www.facebook.com/business/help/2058515294227817",
+      "title": "Business verification (Help Center)",
+      "note": "Meta Business Help Center; article extracted from the page's embedded data"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "display-name-help",
+      "url": "https://www.facebook.com/business/help/338047025165344",
+      "title": "Display name guidelines (Help Center)",
+      "note": "Meta Business Help Center; article extracted from the page's embedded data"
+    },
+    {
+      "platform": "whatsapp-policy",
+      "slug": "remove-partner-help",
+      "url": "https://www.facebook.com/business/help/769431741913174",
+      "title": "Remove a partner from a WABA (Help Center)",
+      "note": "Meta Business Help Center; article extracted from the page's embedded data"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "about-the-platform",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/about-the-platform",
+      "title": "About the WhatsApp Business Platform"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "get-started",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/get-started",
+      "title": "Get started"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "access-tokens",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/access-tokens/",
+      "title": "Access tokens"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "app-review",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/solution-providers/app-review",
+      "title": "App review and access levels"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "business-accounts",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/whatsapp-business-accounts",
+      "title": "WhatsApp Business Accounts"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "phone-numbers",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/business-phone-numbers/phone-numbers",
+      "title": "Business phone numbers"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "phone-number-api",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/reference/whatsapp-business-phone-number/whatsapp-business-account-phone-number-api",
+      "title": "Phone number API reference"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "migrate-existing-number",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/solution-providers/migrate-existing-whatsapp-number-to-a-business-account/",
+      "title": "Migrate an existing WhatsApp number"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "migrate-numbers-between-wabas",
+      "url": "https://developers.facebook.com/docs/whatsapp/business-management-api/guides/migrating-phone-numbers-between-wabas-programmatically",
+      "title": "Migrate phone numbers between WABAs"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "coexistence-onboarding",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/embedded-signup/onboarding-business-app-users",
+      "title": "Coexistence: onboarding WhatsApp Business app users"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "messaging-limits",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messaging-limits",
+      "title": "Messaging limits"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "throughput",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/throughput",
+      "title": "Throughput"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "pricing",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/pricing",
+      "title": "Pricing"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "pricing-non-template-messages",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/pricing/non-template-messages",
+      "title": "Pricing: non-template (service) messages"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "pricing-updates",
+      "url": "https://developers.facebook.com/docs/whatsapp/pricing/updates-to-pricing/",
+      "title": "Updates to pricing"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "send-messages",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/send-messages",
+      "title": "Send messages (all message types)"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "messages-text",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/text-messages",
+      "title": "Text messages"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "messages-image",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/image-messages",
+      "title": "Image messages"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "messages-video",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/video-messages",
+      "title": "Video messages"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "messages-sticker",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/sticker-messages",
+      "title": "Sticker messages"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "messages-reaction",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/reaction-messages",
+      "title": "Reaction messages"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "messages-interactive-reply-buttons",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/interactive-reply-buttons-messages",
+      "title": "Interactive reply buttons"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "messages-interactive-list",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/interactive-list-messages",
+      "title": "Interactive list messages"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "messages-interactive-cta-url",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/messages/interactive-cta-url-messages",
+      "title": "Interactive CTA URL messages"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "media",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/business-phone-numbers/media",
+      "title": "Media (upload, retrieve, limits)"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "media-reference-legacy",
+      "url": "https://developers.facebook.com/docs/whatsapp/cloud-api/reference/media",
+      "title": "Media reference (legacy path)"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "link-previews",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/link-previews",
+      "title": "Link previews"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "sticker-guidelines",
+      "url": "https://raw.githubusercontent.com/WhatsApp/stickers/main/Android/README.md",
+      "title": "Sticker guidelines (WhatsApp/stickers README)"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-overview",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/overview",
+      "title": "Templates overview"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "message-template-api",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/reference/whatsapp-business-account/message-template-api",
+      "title": "Message Template API reference (create, list, delete)"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-management",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-management",
+      "title": "Template management"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-review",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-review",
+      "title": "Template review"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-pausing",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-pausing",
+      "title": "Template pausing"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-archival",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-archival",
+      "title": "Template archival"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-time-to-live",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/time-to-live",
+      "title": "Template time-to-live"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-supported-languages",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/supported-languages",
+      "title": "Supported template languages"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-utility",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/utility-templates/utility-templates",
+      "title": "Utility templates"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-authentication",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/authentication-templates/authentication-templates",
+      "title": "Authentication templates"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-limited-time-offer",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/marketing-templates/limited-time-offer-templates",
+      "title": "Limited-time offer templates"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-template-components-update",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/message_template_components_update",
+      "title": "Webhook: message_template_components_update"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-components",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/components/",
+      "title": "Template components"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-categorization",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-categorization",
+      "title": "Template categorization"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-pacing",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-pacing/",
+      "title": "Template pacing"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-quality",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/template-quality",
+      "title": "Template quality"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-carousel",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/marketing-templates/media-card-carousel-templates",
+      "title": "Media card carousel templates"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "templates-per-user-limits",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/templates/marketing-templates/per-user-limits",
+      "title": "Per-user marketing template limits"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "marketing-messages-overview",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/marketing-messages/overview",
+      "title": "Marketing Messages API overview"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "marketing-messages-lite-get-started",
+      "url": "https://developers.facebook.com/docs/whatsapp/marketing-messages-lite-api/get-started/",
+      "title": "Marketing Messages Lite API get started"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "resumable-upload",
+      "url": "https://developers.facebook.com/docs/graph-api/guides/upload",
+      "title": "Resumable Upload API (template media handles)"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "flows-components",
+      "url": "https://developers.facebook.com/docs/whatsapp/flows/reference/flowjson/components",
+      "title": "Flows: Flow JSON components"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "flows-sending",
+      "url": "https://developers.facebook.com/docs/whatsapp/flows/guides/sendingaflow/",
+      "title": "Flows: sending a flow"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhooks-overview",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/overview",
+      "title": "Webhooks overview"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhooks-create-endpoint",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/create-webhook-endpoint/",
+      "title": "Webhooks: create an endpoint"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhooks-override",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/override/",
+      "title": "Webhooks: callback overrides"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhooks-graph-getting-started",
+      "url": "https://developers.facebook.com/docs/graph-api/webhooks/getting-started",
+      "title": "Graph API webhooks getting started (signatures, retries)"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhooks-subscribed-apps",
+      "url": "https://developers.facebook.com/docs/graph-api/reference/whats-app-business-account/subscribed_apps/",
+      "title": "WABA subscribed_apps reference"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-messages-status",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/messages/status",
+      "title": "Webhook: message status"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-messages-text",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/messages/text",
+      "title": "Webhook: text message"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-messages-button",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/messages/button",
+      "title": "Webhook: template button reply"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-messages-interactive",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/messages/interactive",
+      "title": "Webhook: interactive reply"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-messages-reaction",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/messages/reaction",
+      "title": "Webhook: reaction"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-messages-sticker",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/messages/sticker",
+      "title": "Webhook: sticker"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-messages-image",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/messages/image",
+      "title": "Webhook: image"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-template-status-update",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/message_template_status_update",
+      "title": "Webhook: message_template_status_update"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-template-quality-update",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/message_template_quality_update",
+      "title": "Webhook: message_template_quality_update"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-template-category-update",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/template_category_update",
+      "title": "Webhook: template_category_update"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-phone-number-quality-update",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/phone_number_quality_update",
+      "title": "Webhook: phone_number_quality_update"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-phone-number-name-update",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/phone_number_name_update",
+      "title": "Webhook: phone_number_name_update"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-account-update",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/account_update",
+      "title": "Webhook: account_update"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-account-alerts",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/account_alerts",
+      "title": "Webhook: account_alerts"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "webhook-user-preferences",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/user_preferences",
+      "title": "Webhook: user_preferences (marketing opt-out)"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "error-codes",
+      "url": "https://developers.facebook.com/documentation/business-messaging/whatsapp/support/error-codes",
+      "title": "Error codes"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "app-modes",
+      "url": "https://developers.facebook.com/docs/development/build-and-test/app-modes",
+      "title": "App modes (development vs live)"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "system-user-tokens",
+      "url": "https://developers.facebook.com/docs/business-management-apis/system-users/install-apps-and-generate-tokens/",
+      "title": "System users: install apps and generate tokens"
+    },
+    {
+      "platform": "whatsapp-cloud-api",
+      "slug": "graph-api-changelog",
+      "url": "https://developers.facebook.com/docs/graph-api/changelog",
+      "title": "Graph API changelog and version schedule"
+    },
+    {
+      "platform": "shopify",
+      "slug": "whatsapp-marketing-consent-changelog",
+      "url": "https://shopify.dev/changelog/whatsapp-marketing-consent-now-available",
+      "title": "Changelog: WhatsApp marketing consent"
+    },
+    {
+      "platform": "shopify",
+      "slug": "customerWhatsAppMarketingConsentUpdate",
+      "url": "https://shopify.dev/docs/api/admin-graphql/2026-07/mutations/customerWhatsAppMarketingConsentUpdate",
+      "title": "customerWhatsAppMarketingConsentUpdate"
+    },
+    {
+      "platform": "shopify",
+      "slug": "CustomerWhatsAppMarketingConsent",
+      "url": "https://shopify.dev/docs/api/admin-graphql/2026-07/objects/CustomerWhatsAppMarketingConsent",
+      "title": "CustomerWhatsAppMarketingConsent"
+    },
+    {
+      "platform": "shopify",
+      "slug": "CustomerPhoneNumber",
+      "url": "https://shopify.dev/docs/api/admin-graphql/2026-07/objects/CustomerPhoneNumber",
+      "title": "CustomerPhoneNumber"
+    },
+    {
+      "platform": "shopify",
+      "slug": "CustomerMarketingConsentInput",
+      "url": "https://shopify.dev/docs/api/admin-graphql/2026-07/input-objects/CustomerMarketingConsentInput",
+      "title": "CustomerMarketingConsentInput"
+    },
+    {
+      "platform": "shopify",
+      "slug": "Customer",
+      "url": "https://shopify.dev/docs/api/admin-graphql/2026-07/objects/Customer",
+      "title": "Customer object"
+    },
+    {
+      "platform": "shopify",
+      "slug": "CustomerSegmentMember",
+      "url": "https://shopify.dev/docs/api/admin-graphql/2026-07/objects/CustomerSegmentMember",
+      "title": "CustomerSegmentMember"
+    },
+    {
+      "platform": "shopify",
+      "slug": "segments-reference",
+      "url": "https://help.shopify.com/en/manual/customers/customer-segmentation/reference-guide/shopify-segments",
+      "title": "Customer segment filter reference",
+      "note": "help.shopify.com serves a connection challenge to scripts; capture manually if needed"
+    },
+    {
+      "platform": "shopify",
+      "slug": "WebhookSubscriptionTopic",
+      "url": "https://shopify.dev/docs/api/admin-graphql/2026-07/enums/WebhookSubscriptionTopic",
+      "title": "WebhookSubscriptionTopic"
+    },
+    {
+      "platform": "shopify",
+      "slug": "webhooks-subscribe",
+      "url": "https://shopify.dev/docs/apps/build/webhooks/subscribe",
+      "title": "Webhooks: subscribe"
+    },
+    {
+      "platform": "shopify",
+      "slug": "webhooks-verify",
+      "url": "https://shopify.dev/docs/apps/build/webhooks/verify-deliveries",
+      "title": "Webhooks: verify deliveries"
+    },
+    {
+      "platform": "shopify",
+      "slug": "webhooks-troubleshoot",
+      "url": "https://shopify.dev/docs/apps/build/webhooks/troubleshoot",
+      "title": "Webhooks: troubleshoot and retries"
+    },
+    {
+      "platform": "shopify",
+      "slug": "webhook-payloads",
+      "url": "https://shopify.dev/docs/api/webhooks/2026-07",
+      "title": "Webhook payload reference 2026-07"
+    },
+    {
+      "platform": "shopify",
+      "slug": "app-proxies",
+      "url": "https://shopify.dev/docs/apps/build/online-store/app-proxies",
+      "title": "App proxies"
+    },
+    {
+      "platform": "shopify",
+      "slug": "app-proxies-authenticate",
+      "url": "https://shopify.dev/docs/apps/build/online-store/app-proxies/authenticate-app-proxies",
+      "title": "Authenticate app proxy requests"
+    },
+    {
+      "platform": "shopify",
+      "slug": "client-credentials-grant",
+      "url": "https://shopify.dev/docs/apps/build/authentication-authorization/client-credentials-grant",
+      "title": "Client credentials grant"
+    },
+    {
+      "platform": "shopify",
+      "slug": "app-distribution",
+      "url": "https://shopify.dev/docs/apps/launch/distribution",
+      "title": "App distribution types"
+    },
+    {
+      "platform": "shopify",
+      "slug": "protected-customer-data",
+      "url": "https://shopify.dev/docs/apps/launch/protected-customer-data",
+      "title": "Protected customer data"
+    },
+    {
+      "platform": "shopify",
+      "slug": "access-scopes",
+      "url": "https://shopify.dev/docs/api/usage/access-scopes",
+      "title": "Access scopes"
+    },
+    {
+      "platform": "shopify",
+      "slug": "api-limits",
+      "url": "https://shopify.dev/docs/api/usage/limits",
+      "title": "API rate limits"
+    },
+    {
+      "platform": "shopify",
+      "slug": "customer-notifications",
+      "url": "https://help.shopify.com/en/manual/fulfillment/setup/notifications/customer-notifications",
+      "title": "Customer notifications (which emails can be turned off)",
+      "note": "help.shopify.com serves a connection challenge to scripts; capture manually if needed"
+    },
+    {
+      "platform": "shopify",
+      "slug": "legacy-customer-accounts-deprecated",
+      "url": "https://shopify.dev/changelog/legacy-customer-accounts-are-deprecated",
+      "title": "Changelog: legacy customer accounts deprecated"
+    },
+    {
+      "platform": "shopify",
+      "slug": "customer-accounts-upgrade",
+      "url": "https://help.shopify.com/en/manual/customers/customer-accounts/upgrade",
+      "title": "Upgrade to new customer accounts",
+      "note": "help.shopify.com serves a connection challenge to scripts; capture manually if needed"
+    },
+    {
+      "platform": "shopify",
+      "slug": "shopify-messaging-whatsapp-requirements",
+      "url": "https://help.shopify.com/en/manual/promoting-marketing/create-marketing/shopify-messaging/whatsapp/requirements",
+      "title": "Shopify Messaging WhatsApp requirements (competitor feature)",
+      "note": "help.shopify.com serves a connection challenge to scripts; capture manually if needed"
+    },
+    {
+      "platform": "shopify",
+      "slug": "shopify-messaging-whatsapp-pricing",
+      "url": "https://help.shopify.com/en/manual/promoting-marketing/create-marketing/shopify-messaging/whatsapp/pricing",
+      "title": "Shopify Messaging WhatsApp pricing",
+      "note": "help.shopify.com serves a connection challenge to scripts; capture manually if needed"
+    },
+    {
+      "platform": "shopify",
+      "slug": "marketingActivityUpsertExternal",
+      "url": "https://shopify.dev/docs/api/admin-graphql/2026-07/mutations/marketingActivityUpsertExternal",
+      "title": "marketingActivityUpsertExternal"
+    },
+    {
+      "platform": "shopify",
+      "slug": "marketingEngagementCreate",
+      "url": "https://shopify.dev/docs/api/admin-graphql/2026-07/mutations/marketingEngagementCreate",
+      "title": "marketingEngagementCreate"
+    },
+    {
+      "platform": "shopify",
+      "slug": "liquid-hmac_sha256",
+      "url": "https://shopify.dev/docs/api/liquid/filters/hmac_sha256",
+      "title": "Liquid hmac_sha256 filter"
+    },
+    {
+      "platform": "shopify",
+      "slug": "liquid-customer",
+      "url": "https://shopify.dev/docs/api/liquid/objects/customer",
+      "title": "Liquid customer object"
+    },
+    {
+      "platform": "instagram-messaging",
+      "slug": "messaging-api-overview",
+      "url": "https://developers.facebook.com/docs/instagram-platform/instagram-api-with-instagram-login/messaging-api",
+      "title": "Instagram Messaging API overview"
+    },
+    {
+      "platform": "instagram-messaging",
+      "slug": "user-profile",
+      "url": "https://developers.facebook.com/docs/messenger-platform/instagram/features/user-profile",
+      "title": "Instagram messaging: user profile (username from IGSID)"
+    },
+    {
+      "platform": "instagram-messaging",
+      "slug": "webhook",
+      "url": "https://developers.facebook.com/docs/messenger-platform/instagram/features/webhook",
+      "title": "Instagram messaging: webhooks"
+    },
+    {
+      "platform": "instagram-messaging",
+      "slug": "send-message",
+      "url": "https://developers.facebook.com/docs/messenger-platform/instagram/features/send-message",
+      "title": "Instagram messaging: send messages"
+    },
+    {
+      "platform": "instagram-messaging",
+      "slug": "platform-webhooks",
+      "url": "https://developers.facebook.com/docs/instagram-platform/webhooks",
+      "title": "Instagram Platform webhooks (comments, mentions, story insights)"
+    },
+    {
+      "platform": "instagram-messaging",
+      "slug": "mentioned-media",
+      "url": "https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/mentioned_media",
+      "title": "IG User mentioned_media"
+    },
+    {
+      "platform": "instagram-messaging",
+      "slug": "tags",
+      "url": "https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-user/tags",
+      "title": "IG User tags (media the account is tagged in)"
+    },
+    {
+      "platform": "instagram-messaging",
+      "slug": "ig-comment",
+      "url": "https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-comment",
+      "title": "IG Comment reference"
+    },
+    {
+      "platform": "instagram-messaging",
+      "slug": "ig-media-comments",
+      "url": "https://developers.facebook.com/docs/instagram-platform/instagram-graph-api/reference/ig-media/comments",
+      "title": "IG Media comments"
+    },
+    {
+      "platform": "messenger",
+      "slug": "overview",
+      "url": "https://developers.facebook.com/docs/messenger-platform/overview",
+      "title": "Messenger Platform overview"
+    },
+    {
+      "platform": "messenger",
+      "slug": "send-messages",
+      "url": "https://developers.facebook.com/docs/messenger-platform/send-messages",
+      "title": "Messenger: send messages"
+    },
+    {
+      "platform": "messenger",
+      "slug": "message-tags",
+      "url": "https://developers.facebook.com/docs/messenger-platform/send-messages/message-tags",
+      "title": "Messenger: message tags (outside 24 h window)"
+    },
+    {
+      "platform": "messenger",
+      "slug": "marketing-messages",
+      "url": "https://developers.facebook.com/docs/messenger-platform/marketing-messages",
+      "title": "Messenger and Instagram marketing messages (opt-in recurring notifications)"
+    },
+    {
+      "platform": "messenger",
+      "slug": "webhooks",
+      "url": "https://developers.facebook.com/docs/messenger-platform/webhooks",
+      "title": "Messenger: webhooks"
+    },
+    {
+      "platform": "messenger",
+      "slug": "user-profile",
+      "url": "https://developers.facebook.com/docs/messenger-platform/identity/user-profile",
+      "title": "Messenger: user profile (PSID fields)"
+    },
+    {
+      "platform": "messenger",
+      "slug": "policy-overview",
+      "url": "https://developers.facebook.com/docs/messenger-platform/policy/policy-overview",
+      "title": "Messenger Platform Policy"
+    },
+    {
+      "platform": "meta-policy",
+      "slug": "pages-groups-events-policies",
+      "url": "https://www.facebook.com/policies/pages_groups_events/",
+      "title": "Pages, Groups and Events Policies (promotion rules)"
+    },
+    {
+      "platform": "meta-policy",
+      "slug": "instagram-promotion-guidelines",
+      "url": "https://help.instagram.com/179379842258600",
+      "title": "Instagram Promotion Guidelines",
+      "note": "help.instagram.com renders in the browser; capture manually if EMPTY"
+    },
+    {
+      "platform": "meta-policy",
+      "slug": "community-standards",
+      "url": "https://transparency.meta.com/policies/community-standards/",
+      "title": "Meta Community Standards"
+    },
+    {
+      "platform": "android-play",
+      "slug": "trusted-web-activity",
+      "url": "https://developer.chrome.com/docs/android/trusted-web-activity",
+      "title": "Trusted Web Activities overview"
+    },
+    {
+      "platform": "android-play",
+      "slug": "twa-quick-start",
+      "url": "https://developer.chrome.com/docs/android/trusted-web-activity/quick-start",
+      "title": "TWA quick start (Bubblewrap)"
+    },
+    {
+      "platform": "android-play",
+      "slug": "pwabuilder-android",
+      "url": "https://docs.pwabuilder.com/#/builder/android",
+      "title": "PWABuilder: Android packaging"
+    },
+    {
+      "platform": "android-play",
+      "slug": "play-minimum-functionality",
+      "url": "https://support.google.com/googleplay/android-developer/answer/9898842",
+      "title": "Google Play policy: minimum functionality"
+    },
+    {
+      "platform": "android-play",
+      "slug": "play-testing-tracks",
+      "url": "https://support.google.com/googleplay/android-developer/answer/9845334",
+      "title": "Google Play: internal, closed and open testing"
+    },
+    {
+      "platform": "android-play",
+      "slug": "web-share-target",
+      "url": "https://developer.chrome.com/docs/capabilities/web-apis/web-share-target",
+      "title": "Web Share Target API"
+    },
+    {
+      "platform": "android-play",
+      "slug": "web-push-notifications",
+      "url": "https://web.dev/articles/push-notifications-overview",
+      "title": "Web Push overview (web.dev)"
+    }
+  ]
+}
