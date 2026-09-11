@@ -1,8 +1,8 @@
 # whatsapp-cloud-api — official documentation snapshot
 
-Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC.
+Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC. Last checked: 2026-09-11T10:21:11Z.
 
-| Page | Source | Fetched | Status |
+| Page | Source | Content fetched | Status at last check |
 |---|---|---|---|
 | [About the WhatsApp Business Platform](about-the-platform.md) | https://developers.facebook.com/documentation/business-messaging/whatsapp/about-the-platform | 2026-09-11T09:20:10Z | unchanged |
 | [Get started](get-started.md) | https://developers.facebook.com/documentation/business-messaging/whatsapp/get-started | 2026-09-11T09:20:10Z | unchanged |
@@ -58,7 +58,7 @@ Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC.
 | [Webhooks overview](webhooks-overview.md) | https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/overview | 2026-09-11T09:20:10Z | unchanged |
 | [Webhooks: create an endpoint](webhooks-create-endpoint.md) | https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/create-webhook-endpoint/ | 2026-09-11T09:20:10Z | unchanged |
 | [Webhooks: callback overrides](webhooks-override.md) | https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/override/ | 2026-09-11T09:20:10Z | unchanged |
-| [Graph API webhooks getting started (signatures, retries)](webhooks-graph-getting-started.md) | https://developers.facebook.com/docs/graph-api/webhooks/getting-started | 2026-09-11T10:17:58Z | CHANGED |
+| [Graph API webhooks getting started (signatures, retries)](webhooks-graph-getting-started.md) | https://developers.facebook.com/docs/graph-api/webhooks/getting-started | 2026-09-11T10:17:58Z | unchanged |
 | [WABA subscribed_apps reference](webhooks-subscribed-apps.md) | https://developers.facebook.com/docs/graph-api/reference/whats-app-business-account/subscribed_apps/ | 2026-09-11T09:20:10Z | unchanged |
 | [Webhook: message status](webhook-messages-status.md) | https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/messages/status | 2026-09-11T09:20:10Z | unchanged |
 | [Webhook: text message](webhook-messages-text.md) | https://developers.facebook.com/documentation/business-messaging/whatsapp/webhooks/reference/messages/text | 2026-09-11T09:20:10Z | unchanged |

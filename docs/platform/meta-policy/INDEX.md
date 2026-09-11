@@ -1,8 +1,8 @@
 # meta-policy — official documentation snapshot
 
-Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC.
+Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC. Last checked: 2026-09-11T10:21:11Z.
 
-| Page | Source | Fetched | Status |
+| Page | Source | Content fetched | Status at last check |
 |---|---|---|---|
 | [Pages, Groups and Events Policies (promotion rules)](pages-groups-events-policies.md) | https://www.facebook.com/policies/pages_groups_events/ | 2026-09-11T10:07:06Z | unchanged |
 | [Instagram Promotion Guidelines](instagram-promotion-guidelines.md) | https://help.instagram.com/179379842258600 |  | EMPTY: page is rendered in the browser; needs manual capture |

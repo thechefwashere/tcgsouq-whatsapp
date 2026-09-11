@@ -1,8 +1,8 @@
 # instagram-messaging — official documentation snapshot
 
-Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC.
+Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC. Last checked: 2026-09-11T10:21:11Z.
 
-| Page | Source | Fetched | Status |
+| Page | Source | Content fetched | Status at last check |
 |---|---|---|---|
 | [Instagram Messaging API overview](messaging-api-overview.md) | https://developers.facebook.com/docs/instagram-platform/instagram-api-with-instagram-login/messaging-api | 2026-09-11T10:07:06Z | unchanged |
 | [Instagram messaging: user profile (username from IGSID)](user-profile.md) | https://developers.facebook.com/docs/messenger-platform/instagram/features/user-profile | 2026-09-11T10:07:06Z | unchanged |

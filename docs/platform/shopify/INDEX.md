@@ -1,8 +1,8 @@
 # shopify — official documentation snapshot
 
-Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC.
+Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC. Last checked: 2026-09-11T10:21:11Z.
 
-| Page | Source | Fetched | Status |
+| Page | Source | Content fetched | Status at last check |
 |---|---|---|---|
 | [Changelog: WhatsApp marketing consent](whatsapp-marketing-consent-changelog.md) | https://shopify.dev/changelog/whatsapp-marketing-consent-now-available | 2026-09-11T09:20:10Z | unchanged |
 | [customerWhatsAppMarketingConsentUpdate](customerWhatsAppMarketingConsentUpdate.md) | https://shopify.dev/docs/api/admin-graphql/2026-07/mutations/customerWhatsAppMarketingConsentUpdate | 2026-09-11T09:20:10Z | unchanged |

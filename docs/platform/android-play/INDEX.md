@@ -1,8 +1,8 @@
 # android-play — official documentation snapshot
 
-Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC.
+Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC. Last checked: 2026-09-11T10:21:11Z.
 
-| Page | Source | Fetched | Status |
+| Page | Source | Content fetched | Status at last check |
 |---|---|---|---|
 | [Trusted Web Activities overview](trusted-web-activity.md) | https://developer.chrome.com/docs/android/trusted-web-activity | 2026-09-11T10:16:59Z | unchanged |
 | [TWA quick start (Bubblewrap)](twa-quick-start.md) | https://developer.chrome.com/docs/android/trusted-web-activity/quick-start | 2026-09-11T10:16:59Z | unchanged |
