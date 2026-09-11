@@ -3,12 +3,12 @@ title: "Messenger and Instagram marketing messages (opt-in recurring notificatio
 source: "https://developers.facebook.com/docs/messenger-platform/marketing-messages"
 final_url: "https://developers.facebook.com/docs/messenger-platform/marketing-messages"
 platform: "messenger"
-fetched_at: "2026-09-11T10:13:18Z"
-last_checked_at: "2026-09-11T10:13:18Z"
-previous_fetched_at: "2026-09-11T10:10:27Z"
+fetched_at: "2026-09-11T10:17:58Z"
+last_checked_at: "2026-09-11T10:17:58Z"
+previous_fetched_at: "2026-09-11T10:13:18Z"
 http_status: "200"
 format: "html-converted"
-sha256: "ff16fe7a16899b58ae01d3cf90d3731236ed03144b2a83716334d910fbd9dffe"
+sha256: "ffe02fe68dbf3db84e820b2035fb7a86cb58fb3323d21cbc79d191027eae292d"
 ---
 
 # Marketing Messages
@@ -408,7 +408,7 @@ To test re-opt ins, repeat the steps with the `developer_action` parameter set t
 
 - The
   [Page Messages Reference](https://developers.facebook.com/docs/graph-api/reference/page/messages/) for more information on available fields for recurring messages.
-- [A list of available Time Zones](https://scontent-ord5-2.xx.fbcdn.net/v/t39.8562-6/280309067_562342355463455_3557336671492726983_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=b8d81d&_nc_ohc=YImGuTv-Ke8Q7kNvwEwztBS&_nc_oc=AdoQLm65SVvOabjF4I5XAb4Mn8LcCPhT8ZnMElT0F_KnnTh-UhwhgBm0ByXv0NQY_Bc&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=V2b0DP9kf6rNy5GdBv5c1g&_nc_ss=7f20f&oh=00_AQJQ2leJebZMTWipcXvcrPF3T9ZFsoR0qYXsfo5xblx2qw&oe=6AA9C352)
+- [A list of available Time Zones](https://scontent-ord5-2.xx.fbcdn.net/v/t39.8562-6/280309067_562342355463455_3557336671492726983_n.pdf)
 - [Error Codes for Messenger Platform](https://developers.facebook.com/docs/messenger-platform/error-codes)
 
 ### Developer Support

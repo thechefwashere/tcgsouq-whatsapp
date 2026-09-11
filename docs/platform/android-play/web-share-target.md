@@ -4,7 +4,7 @@ source: "https://developer.chrome.com/docs/capabilities/web-apis/web-share-targe
 final_url: "https://developer.chrome.com/docs/capabilities/web-apis/web-share-target"
 platform: "android-play"
 fetched_at: "2026-09-11T10:16:59Z"
-last_checked_at: "2026-09-11T10:16:59Z"
+last_checked_at: "2026-09-11T10:17:58Z"
 previous_fetched_at: ""
 http_status: "200"
 format: "html-converted"

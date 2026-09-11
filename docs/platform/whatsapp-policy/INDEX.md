@@ -13,6 +13,6 @@ Fetched by `scripts/fetch_platform_docs.py` from the manifest. Dates are UTC.
 | [Policy enforcement](policy-enforcement.md) | https://developers.facebook.com/documentation/business-messaging/whatsapp/policy-enforcement | 2026-09-11T09:20:10Z | unchanged |
 | [Getting opt-in](getting-opt-in.md) | https://developers.facebook.com/documentation/business-messaging/whatsapp/getting-opt-in | 2026-09-11T09:20:10Z | unchanged |
 | [Quality rating and phone number status (Help Center)](quality-rating-help.md) | https://www.facebook.com/business/help/896873687365001 | 2026-09-11T10:10:27Z | unchanged |
-| [Business verification (Help Center)](business-verification-help.md) | https://www.facebook.com/business/help/2058515294227817 | 2026-09-11T10:13:18Z | CHANGED |
-| [Display name guidelines (Help Center)](display-name-help.md) | https://www.facebook.com/business/help/338047025165344 | 2026-09-11T10:13:18Z | CHANGED |
+| [Business verification (Help Center)](business-verification-help.md) | https://www.facebook.com/business/help/2058515294227817 | 2026-09-11T10:13:18Z | unchanged |
+| [Display name guidelines (Help Center)](display-name-help.md) | https://www.facebook.com/business/help/338047025165344 | 2026-09-11T10:13:18Z | unchanged |
 | [Remove a partner from a WABA (Help Center)](remove-partner-help.md) | https://www.facebook.com/business/help/769431741913174 | 2026-09-11T10:10:27Z | unchanged |

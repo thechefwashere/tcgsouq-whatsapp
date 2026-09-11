@@ -4,7 +4,7 @@ source: "https://developers.facebook.com/docs/messenger-platform/identity/user-p
 final_url: "https://developers.facebook.com/documentation/business-messaging/messenger-platform/identity/user-profile"
 platform: "messenger"
 fetched_at: "2026-09-11T10:07:06Z"
-last_checked_at: "2026-09-11T10:13:18Z"
+last_checked_at: "2026-09-11T10:17:58Z"
 previous_fetched_at: ""
 http_status: "200"
 format: "markdown-served"

@@ -3,12 +3,12 @@ title: "Graph API webhooks getting started (signatures, retries)"
 source: "https://developers.facebook.com/docs/graph-api/webhooks/getting-started"
 final_url: "https://developers.facebook.com/docs/graph-api/webhooks/getting-started"
 platform: "whatsapp-cloud-api"
-fetched_at: "2026-09-11T10:13:18Z"
-last_checked_at: "2026-09-11T10:13:18Z"
-previous_fetched_at: "2026-09-11T10:10:27Z"
+fetched_at: "2026-09-11T10:17:58Z"
+last_checked_at: "2026-09-11T10:17:58Z"
+previous_fetched_at: "2026-09-11T10:13:18Z"
 http_status: "200"
 format: "html-converted"
-sha256: "5561679bf663e22c0bbd26895555395e1734987c606174c86c28572b33e6c281"
+sha256: "49a9050ccad898e9fd09c94b8c799b3b90262f11d6f2b0832240c93cadadba67"
 ---
 
 # Get started with webhooks
@@ -187,7 +187,7 @@ Depending on your server’s setup, the above steps vary in details. We illustra
 
 ### Downloadable CA certificate
 
-[meta-outbound-api-ca-2025-12.pem](https://scontent-ord5-2.xx.fbcdn.net/v/t39.2365-6/616047706_1570847757511995_2892285379725429023_n.zip?_nc_cat=107&ccb=1-7&_nc_sid=e280be&_nc_ohc=OO5gOw8jdykQ7kNvwHbc9fP&_nc_oc=AdqnNrTM_l51dOJVWTxwQ4xWGoySNl_AmE7UMkG7tWNi3wtQYBmiSr6Q-lZUmmlYgT8&_nc_zt=14&_nc_ht=scontent-ord5-2.xx&_nc_gid=FgRoJNrCOXuilMaDxQkgEw&_nc_ss=7f20f&oh=00_AQJP7r5njzP6LsaEZSRHvKbX_KxfQG4csbVk6raQP32Fqg&oe=6ABE0025)
+[meta-outbound-api-ca-2025-12.pem](https://scontent-ord5-2.xx.fbcdn.net/v/t39.2365-6/616047706_1570847757511995_2892285379725429023_n.zip)
 
 ## Next Steps
 
