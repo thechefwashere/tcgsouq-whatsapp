@@ -4,8 +4,9 @@ Canonical record: `thechefwashere/tcgsouq-social` → `docs/domain/`. Read **`CH
 first — it holds the two-domain decision and the rules every repo follows (R1–R9). `README.md`
 has the host map and live state, `RUNBOOK.md` the registrar steps.
 
-State as of 17 Sep 2026: `tcgsouq.com` is registered at Porkbun, but its nameservers still
-point at Domain.com — no record can be created until that is switched.
+State as of 17 Sep 2026: `tcgsouq.com` is at Porkbun with the delegation switched (20:55
+UTC), and Google Workspace is live on it — so the zone is ours and records can be added.
+What is listed below waits on its own host side, not on DNS.
 
 ## Hostnames this repo owns
 
