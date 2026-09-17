@@ -1,7 +1,8 @@
 # Domain — what this repo needs from tcgsouq.com
 
-Canonical record: `thechefwashere/tcgsouq-social` → `docs/domain/` (`README.md` for the host
-map and open decisions, `RUNBOOK.md` for the registrar steps).
+Canonical record: `thechefwashere/tcgsouq-social` → `docs/domain/`. Read **`CHARTER.md`**
+first — it holds the two-domain decision and the rules every repo follows (R1–R9). `README.md`
+has the host map and live state, `RUNBOOK.md` the registrar steps.
 
 State as of 17 Sep 2026: `tcgsouq.com` is registered at Porkbun, but its nameservers still
 point at Domain.com — no record can be created until that is switched.
