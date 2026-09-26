@@ -183,6 +183,56 @@ automation, Shopify-triggered updates, and anything answered from the desk.
 Until both pass, the plan stays as written. If both pass, W7 comes out of the roadmap and W2
 shrinks.
 
+## 9b. The owner's existing app number — added 26 Sep 2026, after the owner's answer
+
+The owner has a second number already on the WhatsApp Business app: a business SIM, used for
+account verifications, and as the fallback when a template send is blocked and a customer needs
+an answer now. It is a better coexistence candidate than a new number:
+
+- **Already on the app, already aged.** The eligibility wait ("7+ days, ideally 30–60") is spent.
+- **Real history to sync.** Up to 6 months of 1:1 chats come across at onboarding; a new number
+  would sync nothing.
+- **Under the owner's control, in the business's name** — the properties the plan wanted from
+  the ordered e&/du number. **This number can be that number**; the "order a new number"
+  long-lead item in the alignment doc goes away.
+
+Consequences to accept:
+
+- Its fallback role survives: app messages stay free and outside the window system. Broadcast
+  lists, disappearing messages and view-once are switched off in the app — none of which the
+  fallback use needs.
+- It becomes load-bearing twice over: the customer-facing number *and* the verification SIM.
+  Losing the handset, a ban, or re-registering the number on a new phone (`USER_RE_REGISTERED`)
+  now takes out both. Not a blocker; a reason to move account verifications to a quieter number
+  over time, and never to re-register this one without planning the reconnect.
+- The 13-day rule and "never uninstall" apply to *this* phone from the day it is onboarded.
+
+With the account model, the full picture becomes: the old Wati number keeps Wati's Messaging
+account and gains ours; the app number is onboarded via coexistence with ours; both numbers run
+in the tool; the old number retires on the plan's 6–12 month schedule. Nothing has to happen on
+one day.
+
+### Meta One
+
+Launched 15 Sep 2026. Business tiers reported at $14.99 / $49.99 / $149 / $499 a month (US list;
+press coverage — Meta's own plan page does not render for our fetcher). They bundle a verified
+badge, business verification, impersonation protection and Meta Business Agent access.
+
+**It is not a connection method.** Coexistence and the account model need no subscription;
+Embedded Signup creates our Messaging account on the number by itself. Buy Meta One only for
+the badge, the impersonation protection or the support line — and note that on a WhatsApp
+Business app number the paid badge is the *only* badge route, since Meta "do[es] not grant OBA
+status to … WhatsApp Business app phone numbers."
+
+**Whether it conflicts with coexistence is disputed between BSPs, and Meta does not say.**
+Wati, 10 Aug 2026: "you can have either the CoEx integration or paid Business Verification
+active, but not both at the same time", and re-enabling it "may be disconnected" from CoEx.
+Other partner docs say the Meta Verified badge is kept through coexistence, may vanish for a
+few days during activation, and that classic business verification is unavailable to
+coexistence accounts while Meta Verified is. Wati's statement may describe Wati's integration
+rather than Meta's platform. **Sequence to de-risk: onboard first, subscribe after**, and expect
+the badge to lapse during onboarding if it was bought earlier.
+
 ## 10. Other Meta changes in the same window, briefly
 
 - **1 Oct 2026**: service messages and in-window utility templates priced per message. Verified
