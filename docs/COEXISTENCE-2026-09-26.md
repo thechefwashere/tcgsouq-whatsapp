@@ -192,8 +192,11 @@ shrinks.
   Meta's agent; our own automation remains "service" category.
 - **15 Oct 2026**: Embedded Signup v2 deprecated (above).
 - **Apr–Jul 2026**: BSUIDs and usernames; phone-number omission from webhooks (§4, item 6).
-- **"WAME"**: raised by the owner alongside coexistence; no Meta product or announcement by that
-  name was found. Left open — see the question in the summary that accompanied this document.
+- **"WAME" = WhatsApp Account Model Evolution.** The WABA splits into a WhatsApp account (number)
+  and per-integration Messaging accounts (templates, billing, webhooks), so one number can carry
+  Wati and our own integration with separate billing. Covered in
+  `ACCOUNT-MODEL-EVOLUTION-2026-09-26.md`; together with coexistence it is what makes the number
+  flexible.
 
 ## Sources
 
